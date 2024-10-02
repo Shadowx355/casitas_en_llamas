@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">casitas_en_llamas</string>
+    <string name="monitoreo_en_tiempo_real">Monitoreo en Tiempo Real</string>
+    <string name="nivel_de_humedad_0">nivel_de_humedad_0</string>
+    <string name="nivel_de_humo_0">nivel_de_humo_0</string>
+    <string name="actualizar">actualizar</string>
+    <string name="atras">atras</string>
+    <string name="monitoreo_de_humo">monitoreo_de_humo</string>
+    <string name="monitoreo_en_tiempo_reales">monitoreo_en_tiempo_real</string>
+    <string name="alertas">alertas</string>
+    <string name="alertas_actuales">alertas_actuales</string>
+    <string name="nivel_de_humo_65">nivel_de_humo_65</string>
+    <string name="nivel_de_humedad_80">nivel_de_humedad_80</string>
+    <string name="silenciar_alertas">silenciar_alertas</string>
+    <string name="volver_al_incio">volver_al_incio</string>
+    <string name="inicio_de_la_app">inicio_de_la_app</string>
+    <string name="unirse">Unirse</string>
+    <string name="salir_de_la_aplicacion">salir de la aplicacion</string>
+    <string name="salir_de_la_app">Salir de la app</string>
+    <string name="has_olvidado_la_contrase_a">has_olvidado_la_contrase_a</string>
+    <string name="he_olvidado_la_contrase_a">has_olvidado_la_contraseña</string>
+    <string name="iniciar_sesion">iniciar sesion</string>
+    <string name="ingrese_denuevo_la_contrase_a">Ingrese denuevo la contraseña</string>
+    <string name="registro_a_la_app">Registro a la app</string>
+    <string name="ingrese_nombre_de_usuario">ingrese nombre de usuario</string>
+    <string name="ingresar_contrase_a">Ingresar contraseña</string>
+    <string name="confirmar_contrase_a">Confirmar_contraseña</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="nivel_de_humedad_13">nivel_de_humedad_0%</string>
+    <string name="nivel_de_humo_27">nivel_de_humo_0%</string>
+    <string name="moritoreo">monitoreo de humo</string>
+    <string name="moritoreos">moritoreo</string>
+    <string name="monitoreo_de_humos">monitoreo de humo</string>
+    <string name="casitas_en_llamas">Casitas en llamas</string>
+    <string name="monitoreo_de_la_cocina">Monitoreo de la cocina</string>
+</resources>
